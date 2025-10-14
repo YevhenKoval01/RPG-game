@@ -1,0 +1,21 @@
+# ninja log v5
+0	77	7388556329943803	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	46b0ddcc89a965bc
+0	77	7388556329943803	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	46b0ddcc89a965bc
+78	20970	7388556538890274	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a2c7c63a789752b3
+78	20970	7388556538890274	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a2c7c63a789752b3
+20970	21153	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	739585b061ba0a7f
+20970	21153	0	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	739585b061ba0a7f
+21153	21213	7388556541307784	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	ca82de9c8f4f1632
+21153	21213	7388556541307784	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	ca82de9c8f4f1632
+21213	21265	7388556541831439	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	faa0cf36774530bf
+21213	21265	7388556541831439	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	faa0cf36774530bf
+21265	21313	7388556542314890	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	1013ab50c36a0f76
+21265	21313	7388556542314890	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	1013ab50c36a0f76
+21313	21360	7388556542793148	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	777b9084448e2a87
+21313	21360	7388556542793148	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	777b9084448e2a87
+21361	21414	7388556543323789	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	166b37ba4fc1eee
+21361	21414	7388556543323789	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	166b37ba4fc1eee
+21414	21489	7388556544082652	CMakeFiles/sfml-populate-complete	bd3fd16456ab52df
+21414	21489	7388556544082652	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	bd3fd16456ab52df
+21414	21489	7388556544082652	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	bd3fd16456ab52df
+21414	21489	7388556544082652	C:/Users/Yevhen/Desktop/Project_C++/My2DGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	bd3fd16456ab52df
