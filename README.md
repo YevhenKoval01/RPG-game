@@ -11,7 +11,7 @@ Under the hood, the project is powered by a highly scalable, custom-written loca
   * `InteractiveBox`: Triggers object inspections and loot discovery (e.g., finding keys or items).
   * `InnitiateBox`: Triggers scripted events and cinematic cutscenes (like dodging traffic).
 * **Hybrid Combat System:** Features a unique battle mechanic inspired by bullet-hell RPGs. Players have turn-based options (Attack, Escape, Use Heal) combined with a real-time defense phase where they must maneuver a "heart" inside a bounding box to dodge incoming projectile attacks.
-* **RPG Mechanics:** * Full player progression system including XP, Leveling, Base HP, and Damage scaling.
+* **RPG Mechanics:** Full player progression system including XP, Leveling, Base HP, and Damage scaling.
   * An inventory system with finite capacity that handles items like Health Potions, Swords, and Keys.
   * In-game economy and a fully functional Shop.
 * **Cinematic Storytelling:** Includes a typewriter-style dialogue system for interacting with objects and experiencing scripted cutscenes.
