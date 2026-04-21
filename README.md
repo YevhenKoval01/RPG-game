@@ -29,8 +29,7 @@ To run the game, you must clone the entire repository to get all the necessary h
    ```bash
    git clone [https://github.com/YevhenKoval01/RPG-game]
 2. **Prerequisites:** Ensure you have SFML installed. The provided CMakeLists.txt will automatically find and link it.
-3. **Fix Asset Paths:** Currently, asset paths in main.cpp are hardcoded to a local machine (e.g., C:\\Users\\QWERTY\\...). Before building, please update these to relative paths so the game can correctly load textures and fonts.
-4. **Build and Run:**
+3. **Build and Run:**
    ```bash
    mkdir build && cd build
    cmake ..
